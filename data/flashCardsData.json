@@ -1,0 +1,32 @@
+{
+    "data": {
+        "title": "Kuis Flash",
+        "cards": [
+            {
+                "soal": "Siapa aku?",
+                "hint": "Kira kira aja",
+                "jawaban": "Ardyan"
+            },
+            {
+                "soal": "Umurnya berapa?",
+                "hint": "20an",
+                "jawaban": "22"
+            },
+            {
+                "soal": "Orang mana?",
+                "hint": "Tetangga tetangganya kota ini",
+                "jawaban": "Tasikmalaya"
+            },
+            {
+                "soal": "Kerja dimana?",
+                "hint": "gak kerja tapi kamu ini lagi dimana?",
+                "jawaban": "Makers Institute"
+            },
+            {
+                "soal": "Udah makan belum?",
+                "hint": "Makasih udah care",
+                "jawaban": "Belum, yuk makan bareng"
+            }
+        ]
+    }
+}
